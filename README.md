@@ -1,5 +1,7 @@
 # Gittraining
 Anoop
+<<<<<<< HEAD
+Harsh
+=======
 conflict
-
-hopefully this time we will get the conflict
+>>>>>>> e352c7ad598ff0bb5c3b42bc4c1c7e3be351fd81
